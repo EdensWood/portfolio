@@ -48,7 +48,7 @@ const Hero = () => {
             }
           >
             {" "}
-            Hi I&apos;m Brian, a Next.js developer based in Kenya
+            Hi I&apos;m Brian, a Mobile App developer based in Kenya
           </p>
 
           <a href="#about">
